@@ -119,7 +119,7 @@
       },
       "SPAMWATCH_API": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
-         "required": false,
+         "required": True,
          "value": ""
       }, 
       "STRICT_GBAN": {
